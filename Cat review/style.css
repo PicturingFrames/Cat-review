@@ -1,0 +1,205 @@
+/* Global styling */
+
+.backhome-button {
+  text-decoration: none;
+}
+
+/* This is styling the Cat review page. */
+
+h1 {
+  color: #5300A2;
+}
+h2 {
+  color: #5300A2;
+}
+h3 {
+  color: #5300A2;
+}
+li {
+  display: inline;
+  margin: 0 10px;
+}
+.hat-ul {
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+.main-body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+p {
+  font-size: 20px;
+  margin: 0 50px;
+  
+}
+.main-body {
+  background-color: #FEEDAB; 
+}
+
+/* This is styling the homepage. */
+
+#textinfo-text {
+  font-size: 14px
+}
+.callout-text {
+  font-size: 19px;
+  color: #D9891B;
+}
+#h1-callout {
+  color: #5300A2;
+}
+.animate__animated.animate__zoomIn {
+  --animate-duration: 2s;
+  --animate-delay: 0.9s;
+}
+.body-home {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #FEEDAB;
+}
+ul > li {
+  font-size: 18px;
+}
+.hat-links {
+  text-align: center;
+}
+.extra-info {
+  position: relative;
+  top: 500px;
+  text-align: center;
+}
+#callout-header {
+  text-align: center;
+}
+#callout {
+  margin-top: 150px;
+}
+.bottom-div {
+ color: #5300A2;
+ border: solid;
+ margin-top: 542px;
+ height: 45px;
+ width: 100%;
+ background-color: #5300A2;
+ border-radius: 4px;
+ text-align: center;
+}
+#catreviewtext-bottom {
+  color: #D9891B;
+  font-size: 35px;
+}
+#catreviewtext-top {
+  color: #D9891B;
+  font-size: 35px;
+}
+.top-div {
+  color: #5300A2;
+ border: solid;
+ margin-top: -1px;
+ height: 45px;
+ width: 100%;
+ background-color: #5300A2;
+ border-radius: 4px;
+ text-align: center;
+}
+
+/* This is for styling the Gallery page */
+
+.gallery-body {
+  background-color: #FEEDAB;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.animate__animated.animate__slideInLeft {
+  --animate-duration: 2s;
+}
+
+/* This is for styling the Contacts page */
+
+.body-contacts {
+  background-color: #FEEDAB;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.dial911-text {
+  margin: 0 auto;
+}
+.User1 {
+  margin-left: 60px;
+  position: relative;
+  bottom: 60px;
+}
+.User2 {
+  margin-left: 60px;
+  position: relative;
+  bottom: 60px;
+}
+.review-count-1 {
+  margin-left: 57px;
+  position: relative;
+  bottom: 75px;
+  color: grey;
+}
+.review-count-2 {
+  margin-left: 60px;
+  position: relative;
+  bottom: 75px;
+  color: grey;
+}
+.review-text1 {
+  position: relative;
+  bottom: 125px;
+}
+.review-text2 {
+  position: relative;
+  bottom: 125px;
+}
+.stars5-top {
+  margin-left: 55px;
+  position: relative;
+  bottom: 85px;
+}
+.stars5-bottom {
+  margin-left: 55px;
+  position: relative;
+  bottom: 85px;
+}
+.time-ago-top {
+  margin-left: 150px;
+  position: relative;
+  bottom: 132px;
+}
+.time-ago-bottom {
+  margin-left: 150px;
+  position: relative;
+  bottom: 132px;
+}
+.order {
+  text-align: center;
+}
+#Order-button {
+  background-color: #5300A2;
+  border-radius: 10px;
+}
+#Order-text {
+  color: #D9891B;
+  margin: 0 auto;
+  font-size: 16px;
+}
+.order-input {
+  border-radius: 10px;
+  font-family: sans-serif;
+}
+.dial911-text {
+  font-size: 20px;
+}
+#Ask-people-text {
+  font-size: 20px;
+  margin: auto;
+}
+
+/* This is styling the Summary page. */
+
+.body-summary {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #FEEDAB;
+}
+
